@@ -36,3 +36,8 @@ moe moe kyun~ A gente faz um **sistema operacional** do zero, no estilo mais doi
 - Ninguém deleta arquivo sem aprovação de 2 pares
 - PR com mais de 20 arquivos precisa reunião (nem pro Coelho, dnv!)
 - Comentários em pt-BR, estilo moe moe kyun (padrão do projeto)
+## Quer entrar no Discord? <3
+
+- Instagram: [@teo.viscasillas](https://www.instagram.com/teo.viscasillas/) — manda um salve por lá
+- E-mail: **whimekasyharuna@yahoo.com** — sendme amail, hihi~
+- Dica: pode demorar um pouquinho pra responder, mas a gente responde, confia~ >_<
