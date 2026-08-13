@@ -1,6 +1,7 @@
 # TipGroup Inc. <3
 
-moe moe kyun~ A gente faz um **sistema operacional** do zero, no estilo mais doido possível: kernel em C + NASM + Zig, rodando x86_64 de verdade no QEMU (e quem sabe numa máquina real um dia, hihi~).
+moe moe kyun~ 
+A gente faz um **sistema operacional** do zero, no estilo mais doido possível: kernel em C + NASM + Zig, rodando x86_64 de verdade no QEMU (e quem sabe numa máquina real um dia, hihi~).
 
 ## Projeto principal
 
